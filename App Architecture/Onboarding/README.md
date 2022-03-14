@@ -23,3 +23,5 @@ Onboarding으로 새로운 유저를 환영하고 복귀자를 재연결할 수 
 ## 재밌고 발견 가능한 학습
 
 백문이 불여일견. 행동이 재밌고 효과적이다. 애니메이션과 인터렉트로 점진적으로 그리고 상황에 맞게 안내하라. 대화식 스크린샷 형태를 피해라
+
+[Onboarding - App Architecture - iOS - Human Interface Guidelines - Apple Developer](https://developer.apple.com/design/human-interface-guidelines/ios/app-architecture/onboarding/)
