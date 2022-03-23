@@ -32,7 +32,33 @@
 
 최소한의 탭, 스와이프, 화면만 필요하도록 정보 구조를 구성해라.
 
+## 터치 제스처로 유동성 생성
+
+최소한의 인터페이스 조작으로 쉽게 움직이게 해라. 예를 들어, 화면의 양 옆 사이드에서 스와이프로 이전 화면을 돌아갈 수 있도록 할 수도 있다.
+
+## 기본 네비게이션 컴포넌트를 써라
+
+가능한 한, 기본 컴포넌트를 써라. 페이지 컨트롤, 탭바, 부분 컨트롤, 테이블 뷰, 콜렉션 뷰, 그리고 split 뷰. 사용자는 이런 것들에 이미 친숙하기에 직관적으로 너의 앱을 어떻게 쓸지 알 것이다.
+
+## 계층 데이터 횡단
+
+네비게이션바의 제목은 계층에서의 현재 위치를 알려주고, back 버튼은 이전 위치로 돌아가기 쉽게 한다. [Navigation Bars](https://developer.apple.com/design/human-interface-guidelines/ios/bars/navigation-bars/) 참조
+
+## iPad에서는, Tab bar 보단 Split View
+
+Split View는 탭 바처럼 빠른 네비게이션을 제공하면서, 넓은 화면에서 이용이 용이하다. [Split View](https://developer.apple.com/design/human-interface-guidelines/ios/views/split-views/)  참조
+
+## Page Control
+
+page control은 몇 페이지가 사용 가능한지, 그리고 현재 활성 페이지를 명확히 알려준다. 날씨 앱이 page Control을 사용하여 지역별 날씨를 보여준다. [Page Control](https://developer.apple.com/design/human-interface-guidelines/ios/controls/page-controls/) 참조
+
+### 팁
+
+Segmented Control과 toolbar는 네비게이션이 불가능하다. Segmented Control은 다른 카테고리로의 정보 조직화에 사용해라. 툴바는 현재 문맥에 맞는 상호작용을 제공하는데 사용해라. 추가적인 [Segmented Control](https://developer.apple.com/design/human-interface-guidelines/ios/controls/segmented-controls/)과 [toolbar](https://developer.apple.com/design/human-interface-guidelines/ios/bars/toolbars/) 정보 참조
+
 ---
+
+## Reference
 
 원본
 
